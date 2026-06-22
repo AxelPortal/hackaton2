@@ -2,4 +2,4 @@ Integrantes:
 - Mariel Reyes 
 - Axel Portal
 - Stif 
-- Abigail Cabanillas
+- Abigail Jaslin Cabanillas Ventocilla 202510438
